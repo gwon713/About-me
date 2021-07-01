@@ -10,4 +10,4 @@
 - Language : JavaScript, Java, Python
 - Backend : Express, SpringBoot
 - DB : Mysql, Oracle, MongoDB
-- DevOps : AWS, ELK , Nginx, Docker
+- DevOps : AWS, Redis, ELK , Nginx, Docker
