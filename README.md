@@ -8,7 +8,7 @@
 - 📬 Contact : 👉 gwon713@gmail.com 👈
 - 📖 Blog : 👉 https://velog.io/@gwon713 👈
 
-### Skill 
+### Skills
 - Language : JavaScript, Java, Python
 - Backend : Express, SpringBoot
 - DB : Mysql, Oracle, MongoDB
