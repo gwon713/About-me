@@ -19,3 +19,4 @@
 - CI/CD : nodejs mocha(TDD), CiecleCI, github action
 - DevOps : Express ELK Loggin infra, Nginx Non-Stop Deploy
 - DB : DB Tuning
+- Stress Test : Ngrinder
