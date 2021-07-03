@@ -16,6 +16,6 @@
 
 
 ### Skills of Interest
-- CI/CD : nodejs mocha, CiecleCI, github action
-- DevOps : ELK, Nginx
+- CI/CD : nodejs mocha(TDD), CiecleCI, github action
+- DevOps : Express ELK Loggin infra, Nginx Non-Stop Deploy
 - DB : DB Tuning
