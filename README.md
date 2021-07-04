@@ -4,7 +4,7 @@
 프로스포츠 선수처럼 자기 계발을 하는 개발자\
 코드 리뷰나 피드백은 언제나 환영입니다!
 
-- 📑 Resume : 👉 ~~https://gwon713.github.io~~ 👈
+- 📑 Resume : 👉 https://gwon713.github.io 👈
 - 📬 Contact : 👉 gwon713@gmail.com 👈
 - 📖 Blog : 👉 https://velog.io/@gwon713 👈
 
