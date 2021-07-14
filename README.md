@@ -8,6 +8,8 @@
 - 📬 Contact : 👉 gwon713@gmail.com 👈
 - 📖 Blog : 👉 https://velog.io/@gwon713 👈
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwon713)](https://github.com/gwon713/github-readme-stats)
+
 ### Skills
 - Language : JavaScript, Java, Python
 - Backend : Express, SpringBoot
