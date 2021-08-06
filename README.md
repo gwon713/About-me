@@ -16,6 +16,6 @@
 #### - DevOps : <img alt="Amazon AWS" src ="https://img.shields.io/badge/​-AWS-232F3E.svg?style=flat-square&logo=AmazonAWS&logoColor=FF9900"/> <img alt="Redis" src ="https://img.shields.io/badge/​-Redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white"/> <img alt="Elastic" src ="https://img.shields.io/badge/​-ELK-005571.svg?style=flat-square&logo=Elastic&logoColor=white"/> <img alt="Nginx" src ="https://img.shields.io/badge/​-Nginx-009639.svg?style=flat-square&logo=Nginx&logoColor=white"/> <img alt="Docker" src ="https://img.shields.io/badge/​-Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"/>
 ## 👨‍💻Skills of Interest
 #### - CI/CD : nodejs mocha(TDD), CircleCI, github action
-#### - DevOps : Express ELK Logging infra, Nginx Non-Stop Deploy
+#### - DevOps : Express ELK Logging infra, Nginx Non-Stop Deploy, Naver Pin-Point
 #### - DB : DB Tuning
 #### - Stress Test : Ngrinder
