@@ -16,7 +16,7 @@
 #### - DB : <img alt="PostGres" src ="https://img.shields.io/badge/​-PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/​-MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/> <img alt="Oracle" src ="https://img.shields.io/badge/​-Oracle-F80000.svg?style=flat-square&logo=Oracle&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/​-MongoDB-47A248.svg?style=flat-square&logo=MongoDB&logoColor=white"/>
 #### - DevOps : <img alt="Amazon AWS" src ="https://img.shields.io/badge/​-AWS-232F3E.svg?style=flat-square&logo=AmazonAWS&logoColor=FF9900"/> <img alt="Docker" src ="https://img.shields.io/badge/​-Docker-2496ED.svg?style=flat-square&logo=Docker&logoColor=white"/> <img alt="Redis" src ="https://img.shields.io/badge/​-Redis-DC382D.svg?style=flat-square&logo=Redis&logoColor=white"/> <img alt="Elastic" src ="https://img.shields.io/badge/​-ELK-005571.svg?style=flat-square&logo=Elastic&logoColor=white"/> <img alt="Nginx" src ="https://img.shields.io/badge/​-Nginx-009639.svg?style=flat-square&logo=Nginx&logoColor=white"/> 
 ## 👨‍💻Skills of Interest
-#### - CI/CD : nodejs mocha(TDD), CircleCI, github action
-#### - DevOps : Express ELK Logging infra, Nginx Non-Stop Deploy, Naver Pin-Point
-#### - DB : DB Tuning
-#### - Stress Test : Ngrinder
+#### - CI/CD : Git action, nodejs jest, CircleCI, 
+#### - DevOps : AWS Lambda, AWS Architecture, Nginx, Non-Stop Deploy, Naver Pin-Point
+#### - DB : DB Query Tuning
+#### - Stress Test : Ngrinder, Postman
