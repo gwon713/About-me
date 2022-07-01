@@ -21,3 +21,5 @@
 #### - DB : DB Query Tuning
 #### - Stress Test : Ngrinder, Postman
 #### - Design Pattern : Hexagonal Architecture (Port, Adapter), Funtional Design Pattern
+
+![Snake animation](https://github.com/gwon713/gwon713/blob/main/github-contribution-grid-snake.svg)
